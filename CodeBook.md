@@ -2,10 +2,11 @@
 
 The code is structured in the follows blocks
 
-a) Packages and data project.
+a) **Packages and data project**.
 * Verification of required libraries
 * Verification that the data project is presents in the local folder
-b) The requirements
+
+b) **The requirements**
 * 1. Merges the training and the test sets to create one data set.
 * 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 * 3. Uses descriptive activity names to name the activities in the data set
